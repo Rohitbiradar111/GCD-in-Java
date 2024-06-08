@@ -1,3 +1,5 @@
+//This program prints Greatest Common Divisor(GCD) of two numbers in Java
+
 import java.util.Scanner;
 public class GCD {
     public static void main(String args[])
