@@ -1,4 +1,4 @@
-//This program prints Greatest Common Divisor(GCD) of two numbers in Java
+//This program prints GCD of two numbers in Java
 
 import java.util.Scanner;
 public class GCD {
